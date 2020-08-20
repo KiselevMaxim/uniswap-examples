@@ -1,0 +1,7 @@
+MainNet=wss://mainnet.infura.io/ws/v3/675aaa0967e84a0997359cfa98112f0b
+Ropsten=wss://ropsten.infura.io/ws/v3/675aaa0967e84a0997359cfa98112f0b
+factoryMainNet=0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f
+factoryRopsten=0x9c83dCE8CA20E9aAF9D3efc003b2ea62aBC08351
+GAS_LIMIT=300000
+GAS_PRICE_GWEI=1
+PRIVATE_KEY=6a......701

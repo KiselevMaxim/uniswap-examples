@@ -1,0 +1,23 @@
+{
+  "name": "uniswapradar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@ethersproject/contracts": "^5.0.2",
+    "@ethersproject/providers": "^5.0.5",
+    "@ethersproject/solidity": "^5.0.2",
+    "@uniswap/sdk": "^3.0.3-beta.1",
+    "bignumber.js": "^9.0.0",
+    "dotenv": "^8.2.0",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.2.11"
+  }
+}
