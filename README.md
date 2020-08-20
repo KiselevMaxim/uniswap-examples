@@ -1,4 +1,4 @@
-uniswapradar
+uniswap-examples
 
 **install**
 
